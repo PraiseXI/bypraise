@@ -39,7 +39,7 @@ export default function RootLayout({
 
 function Footer() {
   const links = [
-    { name: '@praisexi', url: 'https://x.com/praisexi' },
+    { name: 'email', url: 'mailto:hello@bypraise.xyz' },
     { name: 'github', url: 'https://github.com/praisexi' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/praiseolawuni/' }
   ];
